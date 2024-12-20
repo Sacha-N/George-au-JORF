@@ -14,7 +14,7 @@ Nous avons par ailleurs utilisé d'autres données annexes. La première est le 
 ## Méthode 
 Ce projet a une portée principalement descriptive et diachronique : comment a évolué l'ouverture sociale et la composition genrée des cabinets ? A quelle(s) région(s) correspond la géographie des prénoms plébiscités par les ministres ?
 
-Ces statistiques descriptives sont complétées par un travail de modélisation : Nous avons réalisé une série de régressions linéaires. Celles-ci représentaient une *probabilité* pour un *prénom* d'accéder à un cabinet ministériel, en fonction du *score* ou du *sexe*. Nous avons utilisé plusieurs définitions du *score* et de cette *probabilité* ce qui nous a permis de tirer différentes conclusions.
+Ces statistiques descriptives sont complétées par un travail de modélisation : Nous avons réalisé une série de régressions linéaires. Celles-ci représentaient une *probabilité* pour un *prénom* d'accéder à un cabinet ministériel, en fonction du *score* ou du *sexe*. Nous avons utilisé plusieurs définitions du *score* et de cette *probabilité* ce qui nous a permis de tirer différentes conclusions. 
 
 ## Principaux résultats
 (**à compléter**)
